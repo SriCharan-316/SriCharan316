@@ -9,6 +9,26 @@
 
 - 📫 How to reach me **sricharanpittasp6@gmail.com**
 
+## 🎮 Snake Game
+
+I've created a classic Snake game in Python! 
+
+### Features:
+- Snake movement with arrow keys
+- Food collection and snake growth
+- Collision detection (walls and self-collision)
+- Score tracking
+- Game over screen with restart option
+
+### How to Play:
+1. Install Python 3 and pip
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the game: `python snake_game.py`
+4. Use arrow keys to control the snake
+5. Eat red food to grow and increase your score
+6. Avoid hitting walls or yourself
+7. Press SPACE to restart when game over
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/@cherry.panda.316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cherry.panda.316" height="30" width="40" /></a>
